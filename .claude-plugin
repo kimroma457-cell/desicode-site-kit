@@ -1,0 +1,14 @@
+{
+  "name": "desicode-site-kit",
+  "version": "0.1.0",
+  "description": "실내건축 현장관리 키트 — 자재승인서, 도면·내역서 대조와 질의서(RFI), 공사일보·주간보고, 견적 원가 계산, 현장 메일, 서류 정리를 현장 실무 기준으로 처리합니다.",
+  "author": {
+    "name": "데시코드 (Desicode)",
+    "email": "desicode1@gmail.com"
+  },
+  "keywords": ["실내건축", "인테리어", "현장관리", "자재승인서", "공사일보", "주간보고", "견적", "RFI", "질의서"],
+  "displayName": "데시코드 실내건축 현장관리 키트",
+  "license": "MIT",
+  "homepage": "https://github.com/kimroma457-cell/desicode-site-kit",
+  "repository": "https://github.com/kimroma457-cell/desicode-site-kit"
+}
